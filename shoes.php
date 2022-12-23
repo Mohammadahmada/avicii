@@ -59,8 +59,8 @@
     
 </div>
 <br>
-    <div class="footer">
-      <table style="margin-left: 580px;">
+    < div  class = "foder" >
+      < table  style = "margin-left: 580px؛" >
           <tr>
               <td><a href="#"><h4 style="color: white;">call as   |</h4></a></td>
               <td><a href="#"><h4 style="color:white;">politics   |</h4></a></td>
